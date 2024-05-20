@@ -52,7 +52,12 @@ function CardForm({ data }) {
           type="text"
           placeholder="To'liqismingizni kriting"
         />
-        <input required ref={tel} type="text" placeholder="+998 00 000 00 00" />
+        <input
+          required
+          ref={tel}
+          type="number"
+          placeholder="+998 00 000 00 00"
+        />
         <input required ref={address} type="text" placeholder="Manzilingiz" />
         <input
           required
