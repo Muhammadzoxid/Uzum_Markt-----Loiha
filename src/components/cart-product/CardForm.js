@@ -3,7 +3,7 @@ import "./CardProduct.css";
 
 const BOT_TOKEN = "7107790917:AAGR14ZrVNDPjfum4rZm3cmjrRV-BZizQ14";
 
-const CHAT_ID = "-4263103105";
+const CHAT_ID = "-4267965369";
 const USER_ID = "5383462353";
 
 //https://api.telegram.org/bot7107790917:AAGR14ZrVNDPjfum4rZm3cmjrRV-BZizQ14/getUpdates
